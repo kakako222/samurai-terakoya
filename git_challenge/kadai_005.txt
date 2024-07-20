@@ -19,3 +19,4 @@ shibacaco@MiyachinoMacBook-Air git_challenge % git log --oneline
 shibacaco@MiyachinoMacBook-Air git_challenge % git log --oneline
 c333ddc (HEAD -> main) 日本語訳を追加
 44a5632 hello_world.txt に追加
+
